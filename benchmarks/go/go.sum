@@ -1,2 +1,4 @@
 github.com/go-ruby-date/date v0.0.0-20260629114559-23a5251a54e4 h1:Qyl2DRWnEC65Y7EI6TB9vIHzQmkySJrIF5uzBu3YdKw=
 github.com/go-ruby-date/date v0.0.0-20260629114559-23a5251a54e4/go.mod h1:kn4XWlGthyqF+ogp9Tmj9EYLmvZa3Yb9Eqnfdsgu63Y=
+github.com/go-ruby-date/date v0.0.0-20260717063625-7b8321539439 h1:4A+1sF1XpSAwpw6YoTPHzq2gDBbzMFFC3ZIAV8K1hrk=
+github.com/go-ruby-date/date v0.0.0-20260717063625-7b8321539439/go.mod h1:kn4XWlGthyqF+ogp9Tmj9EYLmvZa3Yb9Eqnfdsgu63Y=
