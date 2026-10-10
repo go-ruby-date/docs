@@ -1,5 +1,5 @@
 module bench
 
-go 1.26.4
+go 1.27.1
 
-require github.com/go-ruby-date/date v0.0.0-20260916092103-cf7111f88dea
+require github.com/go-ruby-date/date v0.0.0-20261010104352-78655621fab6
