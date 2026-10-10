@@ -4,3 +4,5 @@ github.com/go-ruby-date/date v0.0.0-20260717063625-7b8321539439 h1:4A+1sF1XpSAwp
 github.com/go-ruby-date/date v0.0.0-20260717063625-7b8321539439/go.mod h1:kn4XWlGthyqF+ogp9Tmj9EYLmvZa3Yb9Eqnfdsgu63Y=
 github.com/go-ruby-date/date v0.0.0-20260916092103-cf7111f88dea h1:77DSZqatTj70Rh+icq69nBFXTg4InqL1gRF9qQNimBU=
 github.com/go-ruby-date/date v0.0.0-20260916092103-cf7111f88dea/go.mod h1:kn4XWlGthyqF+ogp9Tmj9EYLmvZa3Yb9Eqnfdsgu63Y=
+github.com/go-ruby-date/date v0.0.0-20261010104352-78655621fab6 h1:jtx+zQdpyKwvCjGE2YXe9oMmeAHHdT4kQFQJXurvleQ=
+github.com/go-ruby-date/date v0.0.0-20261010104352-78655621fab6/go.mod h1:BGAJOmMdotVzrEsS3lIQ0IB1aSrYcXzntIFs9gCE00s=
